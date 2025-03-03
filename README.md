@@ -37,8 +37,8 @@ ________________________________________
 4. Technical Details
 Advanced Analysis (Power BI)
 •	Linear Regression Analysis: Conducted regression to analyze:
-1.	Quantity vs. Price – Understanding how pricing impacts sales volume.
-2.	Price vs. Promotion Impact – Evaluating how promotions affect sales performance.
+*	Quantity vs. Price – Understanding how pricing impacts sales volume.
+*	Price vs. Promotion Impact – Evaluating how promotions affect sales performance.
 •	One-Month Forecasting: Predicted future sales trends to assist in demand planning and inventory management.
 Power Query Transformations:
 •	Applied filtering to exclude irrelevant data.
